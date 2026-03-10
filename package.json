@@ -1,0 +1,15 @@
+{
+  "name": "se3010_playwright_ci_cd_demo",
+  "version": "1.0.0",
+  "description": "Automated end-to-end testing using Playwright with CI/CD integration through GitHub Actions for the SE3010 Software Engineering Process & Quality Management assignment.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.4.0"
+  }
+}
