@@ -5,4 +5,3 @@ test('Playwright homepage tests', async ({ page }) => {
   await expect(page).toHaveTitle(/Playwright/);
 });
 
-
